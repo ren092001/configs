@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.scrollback": 3000,
+    "python.analysis.autoFormatStrings": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Terminus (TTF) for Windows', Consolas, 'Courier New', monospace",
+    "editor.cursorStyle": "underline",
+    "editor.minimap.autohide": true,
+    "workbench.iconTheme": "catppuccin-latte",
+    "workbench.tips.enabled": false,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false,
+    "explorer.autoOpenDroppedFile": false,
+    "extensions.ignoreRecommendations": true,
+    "telemetry.feedback.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.scrollBeyondLastLine": false
+}
